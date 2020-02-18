@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415660396554",
+    "firebase_url": "https://universemouth.firebaseio.com",
+    "project_id": "universemouth",
+    "storage_bucket": "universemouth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415660396554:android:94c47e556a3706a4484ff3",
+        "android_client_info": {
+          "package_name": "com.example.universemouth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415660396554-gl8931u6odgjcbhb82u83i564rj054l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.universemouth",
+            "certificate_hash": "8a579e2a6fd2b8686b8a51ef154d3557b5c77db5"
+          }
+        },
+        {
+          "client_id": "415660396554-cgjgar9g31q42472h42tlngu5h5sbd8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHwQZs5O1A72yVLe8CVkJ3RSuF0EJDTUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415660396554-cgjgar9g31q42472h42tlngu5h5sbd8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
